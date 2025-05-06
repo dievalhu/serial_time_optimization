@@ -1,7 +1,7 @@
 
   # Serial Time Optimization
 
-![Methodological Process](fig1_1.PNG)  
+![Methodological Process](fig1_1.png)  
 *Figure 1: Methodological workflow.*
 
 ## Abstract
